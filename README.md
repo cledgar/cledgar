@@ -142,9 +142,9 @@
 
 <br>
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
+profile format credit: [abdul khalid](https://github.com/0xabdulkhalid)
 
-Last Edited on: 09/11/2022
+last edited on: 04/08/2025
 
 
 <!--
