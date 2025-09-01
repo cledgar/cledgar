@@ -59,11 +59,6 @@
 
 <br>
 
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
 
 </p>
 
@@ -130,7 +125,7 @@
 
 <div align='center'>
 
-## <b>nowhere to go but up! <3</b>
+## <b>Thank you for taking the time to view my profile!</b>
 
 </div>
 <br>
