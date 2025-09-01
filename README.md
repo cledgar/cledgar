@@ -14,7 +14,7 @@
 
 <br>
 
-- Interested in video game development, as well as full stack website development, and AI/ML, but my goal is to hopefully stay in academia!
+- Interested in video game development, as well as full stack website development, and AI/ML, but my goal is to hopefully work in academia!
 - Majoring in Computer Science at Missouri State University
 - https://www.linkedin.com/in/carolineledgar/
 
