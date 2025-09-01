@@ -17,7 +17,6 @@
 - Interested in video game development, as well as full stack website development, and AI/ML, but my goal is to hopefully stay in academia!
 - Majoring in Computer Science at Missouri State University
 - https://www.linkedin.com/in/carolineledgar/
-- [My resume](https://docs.google.com/document/d/1IudRm1AJ5M0fISpn9yzI8wzghakQ7qzup6cD9eeEo9w/edit?usp=sharing)! Feel free to contact me at one of my links below!
 
 <br><br>
 
